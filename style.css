@@ -1,0 +1,48 @@
+.giris span{
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+}
+.giris p{
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    color: #999;
+    font-style: italic;
+    margin-bottom: 0;
+}
+.checkbox{
+    display: block;
+    position: relative;
+}
+a {
+    color: #efc002;
+}
+.girisyap{
+    margin-bottom: 1.3rem;
+    position: relative;
+}
+.uyeolmadandevam{
+    margin-bottom: 1.3rem;
+    position: relative;
+}
+.input{
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.btn.btn-1{
+    color: #fff;
+    background: #efc002;
+}
+.btn{
+    font-size: 1.2rem;
+    border-radius: 2rem;
+    transition: all .2s ease-in-out;
+    border: none;
+    padding: 1rem 1.5rem;
+}
+.btn.btn-2{
+    color: #000;
+    background: #ddd;
+}
